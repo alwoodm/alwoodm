@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Cześć, jestem Aleksander!<br><br>🎓 Obecnie uczę się programowania oraz rozwijam swoje umiejętności techniczne w zakresie IT i elektroniki. Interesuję się technologią, programowaniem, historią oraz literaturą. Na moim profilu znajdziesz różne projekty związane z nauką kodowania i eksperymentami z technologią.
+👋 Hi, I'm Aleksander!<br><br>🎓 I'm currently learning programming and developing my technical skills in IT and electronics. I'm interested in technology, programming, history and literature. On my profile you will find various projects related to learning coding and experimenting with technology.
 
 
 # 💻 Tech Stack:
