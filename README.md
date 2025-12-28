@@ -13,7 +13,7 @@ Competitive programming • Web development • Open source • History & litera
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+*"First, solve the problem. Then, write the code."*
 
 </div>
 
