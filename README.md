@@ -1,5 +1,8 @@
 <!-- # 💫 About Me: -->
 # 👋 Hey, I'm Aleksander Lis
+
+**17-year-old student with a passion for programming** 🇵🇱 
+
 🎓 I'm currently learning programming and developing my technical skills in IT and electronics. I'm interested in technology, programming, history and literature. On my profile you will find various projects related to learning coding and experimenting with technology.
 
 <!--
